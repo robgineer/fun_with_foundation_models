@@ -8,3 +8,4 @@ datasets
 torchvision
 peft
 bitsandbytes
+tiktoken
