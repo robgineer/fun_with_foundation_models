@@ -9,3 +9,6 @@ torchvision
 peft
 bitsandbytes
 tiktoken
+chromadb
+langchain-openai
+langchain
